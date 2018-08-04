@@ -1,0 +1,5 @@
+c:\users\babatunde\documents\visual studio 2010\Projects\database_sys\bin\Debug\database_sys.exe
+c:\users\babatunde\documents\visual studio 2010\Projects\database_sys\bin\Debug\database_sys.pdb
+c:\users\babatunde\documents\visual studio 2010\Projects\database_sys\obj\x86\Debug\database_sys.exe
+c:\users\babatunde\documents\visual studio 2010\Projects\database_sys\obj\x86\Debug\database_sys.pdb
+C:\Users\Babatunde\Documents\Visual Studio 2010\Projects\database_sys\obj\x86\Debug\database_sys.csprojResolveAssemblyReference.cache
